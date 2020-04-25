@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "elcou",
+      "type": "com.sxx.pojo.Elcou",
+      "sourceType": "com.sxx.pojo.Elcou"
+    }
+  ],
+  "properties": [
+    {
+      "name": "elcou.cou-id",
+      "type": "java.lang.Integer",
+      "sourceType": "com.sxx.pojo.Elcou"
+    },
+    {
+      "name": "elcou.score",
+      "type": "java.lang.Integer",
+      "sourceType": "com.sxx.pojo.Elcou"
+    },
+    {
+      "name": "elcou.stu-id",
+      "type": "java.lang.Integer",
+      "sourceType": "com.sxx.pojo.Elcou"
+    }
+  ],
+  "hints": []
+}
